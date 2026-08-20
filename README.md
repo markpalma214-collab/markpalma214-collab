@@ -8,7 +8,10 @@
   <strong>Current Focus:</strong> Software Engineering, Database Management,
   Web Frameworks, Data Engineering
 </p>
-
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
@@ -20,7 +23,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
-
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
@@ -32,14 +38,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=markpalma214-collab&repo=project2">
   </a>
 </p>
-
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markpalma214-collab&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markpalma214-collab&layout=compact">
 </p>
-
+<br>
+<br>
+<br>
+<br>
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
