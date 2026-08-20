@@ -1,7 +1,10 @@
-# Hi, I'm Mark 👋
+<h2 align="center">👋 Hi, I'm Mark</h2>
 
-## About Me
-<h3 style="color:blue;> Identity: </h3>
-  role:<h3 style="color:pink> Student of B.Tech Computer Science </h3>
-  passion:<h3 style="color:pink> Web Development, Ai, Database, API</h3>
-  current_focus:<h3 style="color:pink>Software Engineering, Managing Database, Web FrameWork, Data Engineering</h3>
+<h3>🧑‍💻 Identity</h3>
+
+<p>
+  <strong>Role:</strong> Student of B.Tech Computer Science<br>
+  <strong>Passion:</strong> Web Development, AI, Databases, APIs<br>
+  <strong>Current Focus:</strong> Software Engineering, Database Management,
+  Web Frameworks, Data Engineering
+</p>
